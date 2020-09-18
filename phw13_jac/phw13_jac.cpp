@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cmath>
 
 int main() {
     int x; //Used for user input of number
