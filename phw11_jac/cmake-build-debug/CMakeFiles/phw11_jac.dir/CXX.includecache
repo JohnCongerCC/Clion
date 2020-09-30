@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/johnc/CLionProjects/phw11_jac/phw11_jac.cpp
+iostream
+-
+string
+-
+sstream
+-
+vector
+-
+
